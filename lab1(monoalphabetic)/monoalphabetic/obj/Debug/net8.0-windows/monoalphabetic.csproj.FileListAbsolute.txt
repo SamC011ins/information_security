@@ -1,0 +1,16 @@
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.Form1.resources
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.csproj.GenerateResource.cache
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.AssemblyInfoInputs.cache
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.AssemblyInfo.cs
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.csproj.CoreCompileInputs.cache
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\bin\Debug\net8.0-windows\monoalphabetic.exe
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\bin\Debug\net8.0-windows\monoalphabetic.deps.json
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\bin\Debug\net8.0-windows\monoalphabetic.runtimeconfig.json
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\bin\Debug\net8.0-windows\monoalphabetic.dll
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\bin\Debug\net8.0-windows\monoalphabetic.pdb
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.dll
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\refint\monoalphabetic.dll
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.pdb
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\monoalphabetic.genruntimeconfig.cache
+C:\Users\chish\source\repos\monoalphabetic\monoalphabetic\obj\Debug\net8.0-windows\ref\monoalphabetic.dll

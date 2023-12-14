@@ -1,0 +1,16 @@
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\bin\Debug\net8.0-windows\lab2(gaener).exe
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\bin\Debug\net8.0-windows\lab2(gaener).deps.json
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\bin\Debug\net8.0-windows\lab2(gaener).runtimeconfig.json
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\bin\Debug\net8.0-windows\lab2(gaener).dll
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\bin\Debug\net8.0-windows\lab2(gaener).pdb
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2_gaener_.Form1.resources
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).csproj.GenerateResource.cache
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).AssemblyInfoInputs.cache
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).AssemblyInfo.cs
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).csproj.CoreCompileInputs.cache
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).dll
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\refint\lab2(gaener).dll
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).pdb
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\lab2(gaener).genruntimeconfig.cache
+C:\Users\chish\source\repos\lab2(gaener)\lab2(gaener)\obj\Debug\net8.0-windows\ref\lab2(gaener).dll
